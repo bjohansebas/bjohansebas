@@ -2,7 +2,9 @@
 
 ### Projects I Maintain
 
-- 🔭 I’m currently helping to maintain the Express documentation
+- Express.js: Express, Compression, Session, Codemod, Website and [much more](https://github.com/expressjs/discussions/blob/master/docs/contributing/captains_and_committers.md).
+- Node.js: Website
+- Pkgjs: Wiby, Statusboard
   
 ### Communities I Contribute To
 
