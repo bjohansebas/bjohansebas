@@ -8,11 +8,11 @@
   
 ### Communities I Contribute To
 
-- Express.js
-- Node.js:
+- [<img src="https://avatars.githubusercontent.com/u/5658226?s=20&v=4" /> Express.js](https://expressjs.com/) 
+- [<img src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" /> node.js](https://nodejs.org/):
   -  Working Groups: [Website Team](https://github.com/nodejs/nodejs.org/issues/7564), [Package Maintenance](https://github.com/nodejs/package-maintenance/blob/main/MEMBERS.md),[Triage Team](https://github.com/nodejs/node?tab=readme-ov-file#triagers).
-- OpenJS Foundation Cross Project Council
-- Pkgjs
+- [<img src="https://avatars.githubusercontent.com/u/48335322?s=20&v=4" /> OpenJS Foundation](https://github.com/openjs-foundation/) [Cross Project Council](https://github.com/openjs-foundation/cross-project-council)
+-  [<img src="https://avatars.githubusercontent.com/u/52229615?s=20&v=4" /> Pkgjs](https://github.com/pkgjs): 
 
 ### Get in touch
 
