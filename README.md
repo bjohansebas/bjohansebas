@@ -3,16 +3,22 @@
 ### Projects I Maintain
 
 - Express.js: Express, Compression, Session, Codemod, Website and [much more](https://github.com/expressjs/discussions/blob/master/docs/contributing/captains_and_committers.md).
+- Webpack: webpack-dev-server, webpack-dev-middleware
 - Node.js: Website
 - Pkgjs: Wiby, Statusboard
+
   
 ### Communities I Contribute To
 
-- [<img src="https://avatars.githubusercontent.com/u/5658226?s=20&v=4" /> Express.js](https://expressjs.com/) 
-- [<img src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" /> node.js](https://nodejs.org/):
-  -  Working Groups: [Website Team](https://github.com/nodejs/nodejs.org/issues/7564), [Package Maintenance](https://github.com/nodejs/package-maintenance/blob/main/MEMBERS.md),[Triage Team](https://github.com/nodejs/node?tab=readme-ov-file#triagers).
-- [<img src="https://avatars.githubusercontent.com/u/48335322?s=20&v=4" /> OpenJS Foundation](https://github.com/openjs-foundation/) [Cross Project Council](https://github.com/openjs-foundation/cross-project-council)
--  [<img src="https://avatars.githubusercontent.com/u/52229615?s=20&v=4" /> Pkgjs](https://github.com/pkgjs): 
+- [<img src="https://avatars.githubusercontent.com/u/5658226?s=20&v=4" /> Express.js](https://expressjs.com/):
+  - Working Groups: [Security Working Group](https://github.com/expressjs/security-wg?tab=readme-ov-file#members), [Performance Working Group](https://github.com/expressjs/perf-wg?tab=readme-ov-file#team-members) [TypeScript Working Group](https://github.com/expressjs/typescript-wg?tab=readme-ov-file#members)
+- [<img src="https://avatars.githubusercontent.com/u/2105791?s=20&v=4" /> Webpack](https://github.com/webpack):
+  - Working Groups: [Security Working Group](https://github.com/webpack/security-wg?tab=readme-ov-file#members)
+- [<img src="https://avatars.githubusercontent.com/u/9950313?s=20&v=4" /> Node.js](https://nodejs.org/):
+  -  Working Groups: [Website Team](https://github.com/nodejs/nodejs.org/issues/7564), [Package Maintenance](https://github.com/nodejs/package-maintenance/blob/main/MEMBERS.md), [Triage Team](https://github.com/nodejs/node?tab=readme-ov-file#triagers).
+- [<img src="https://avatars.githubusercontent.com/u/48335322?s=20&v=4" /> OpenJS Foundation](https://github.com/openjs-foundation/): [Cross Project Council](https://github.com/openjs-foundation/cross-project-council)
+-  [<img src="https://avatars.githubusercontent.com/u/52229615?s=20&v=4" /> Pkgjs](https://github.com/pkgjs):
+
 
 ### Get in touch
 
